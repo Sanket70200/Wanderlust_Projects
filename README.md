@@ -29,7 +29,7 @@ Node.js / Java / [other dependencies]
 Steps to Clone and Run
 
 1. Clone the repository:
-git clone https://github.com/Sanket70200/wanderlust_project.git
+git clone https://github.com/Sanket70200/Wanderlust_Projects.git
 cd wanderlust_project
 
 2. Install dependencies:
